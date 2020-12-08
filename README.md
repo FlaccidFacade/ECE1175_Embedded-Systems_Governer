@@ -4,3 +4,6 @@ Section 2: Implementing custom userspace CPU frequency governor
 
 
 This program measures the utilization of each cpu core, finds the highest, uses it to determine a new frequency.
+
+
+this code is used for an rpi3
